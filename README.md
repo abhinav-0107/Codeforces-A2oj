@@ -9,7 +9,7 @@ All the problems in this repository are sourced from [Codeforces](https://codefo
 
 ## A2OJ Ladder Overview
 
-- [A2OJ Ladder Link]([https://a2oj.com/ladder](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html))
+- [A2OJ Ladder Link](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 
 The A2OJ ladder is thoughtfully curated to provide a structured learning path, covering a wide range of topics and difficulty levels. It's a valuable resource for both beginners and experienced programmers looking to enhance their algorithmic proficiency.
 
